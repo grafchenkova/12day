@@ -527,15 +527,7 @@ section {
     object-fit: contain;
 }
 
-.author-image::after {
-    content: '';
-    position: absolute;
-    inset: 0;
-    bottom: 0;
-    height: 33%;
-    background: linear-gradient(to top, rgba(0, 0, 0, 1), transparent);
-    z-index: 10;
-}
+
 
 .author-name {
     position: absolute;
