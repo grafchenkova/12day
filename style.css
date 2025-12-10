@@ -526,6 +526,12 @@ section {
     display: block;
     object-fit: contain;
 }
+.author-image img,
+.author img {
+    filter: none !important;
+    opacity: 1 !important;
+    mix-blend-mode: normal !important;
+}
 
 
 
