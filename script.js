@@ -172,7 +172,7 @@ function renderPage() {
             <div class="container">
                 <div class="author-grid">
                     <div class="author-image">
-                        <img src="assets/images/author.png" alt="Natalia Grafhenkova">
+                        <img src="assets/author.png" alt="Natalia GRAFHENKOVA">
                         <div class="author-name">Natalia<br>Grafhenkova</div>
                     </div>
                     <div class="author-info">
